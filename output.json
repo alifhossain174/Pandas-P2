@@ -1,0 +1,23 @@
+[
+  {
+    "Name":"Fahim",
+    "Age":27,
+    "Salary":25000,
+    "Performance":88,
+    "City":"Dhaka"
+  },
+  {
+    "Name":"Saad",
+    "Age":28,
+    "Salary":50000,
+    "Performance":89,
+    "City":"Rajshahi"
+  },
+  {
+    "Name":"Nur",
+    "Age":29,
+    "Salary":60000,
+    "Performance":95,
+    "City":"Khulna"
+  }
+]
